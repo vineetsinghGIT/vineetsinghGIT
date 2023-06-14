@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi,I'm Vineet Singh</h1>
+<p>About Me</p>
+<br/>
+<img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetsinghGIT&label=Profile%20views&color=0e75b6&style=flat" alt="vineet" /> </p>
